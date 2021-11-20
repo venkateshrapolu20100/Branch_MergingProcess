@@ -1,0 +1,6 @@
+public int add(int a, int b)
+{
+ int c;
+ c= a+b;
+ Console.writeline("the addition of two intergervalues c:")
+}
